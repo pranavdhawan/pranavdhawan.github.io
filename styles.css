@@ -1,0 +1,67 @@
+* 
+{
+    font: optional;
+    background-color: cornsilk;
+    font-family: monospace;
+    align-items: center;
+    align-content: center;
+
+}
+
+.body
+{
+    padding: 0;
+}
+.head
+{
+    text-align: justify;
+    left: 0;
+    width: 100%;
+    position: relative;
+}
+  
+.topnav
+{
+    text-align: justify;
+}
+.topnav a {
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: black;
+    color: white;
+}
+  
+.topnav a.active {
+    background-color: black;
+    color: white;
+}
+
+.foot {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3px;
+    margin-bottom: 2cm;
+    display: block;
+}
+
+.paragraphs
+{
+    text-align: justify;
+    margin-left: 2px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 1%;
+    position: relative;
+    font-size: 16px;
+}
