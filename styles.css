@@ -19,6 +19,19 @@
     width: 100%;
     position: relative;
 }
+
+.plink {
+    text-align: justify;
+    position: relative;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    margin: 20px;
+    color: black;
+    font-size: 15px;
+    font-family: monospace;
+    text-decoration: none;
+}
   
 .topnav
 {
@@ -36,6 +49,12 @@
 .topnav a:hover {
     background-color: black;
     color: white;
+}
+
+.ac {
+    color: blue;
+    width: 1rem;
+    font-size: 20px;
 }
   
 .topnav a.active {
